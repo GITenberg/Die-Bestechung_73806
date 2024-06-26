@@ -1,0 +1,33 @@
+_repo: Die-Bestechung_73806
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Repsold, Wilhelm
+    gutenberg_agent_id: '57225'
+    url: http://www.gutenberg.org/2009/agents/57225
+creator:
+  author:
+    agent_name: Schücking, Levin
+    gutenberg_agent_id: '57224'
+    url: http://www.gutenberg.org/2009/agents/57224
+description: ''
+gutenberg_issued: '2024-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73806'
+language: de
+pgterms:marc904: https://archive.org/details/diebestechungnov00sch
+pgterms:marc905: 20220120104633schcking
+pgterms:marc906: '1920'
+pgterms:marc907: de
+production_note: Peter Becker, Hans Theyer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBerlin :$bFlemming und Wiskott, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Die Bestechung
+url: http://www.gutenberg.org/ebooks/73806
